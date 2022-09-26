@@ -4,5 +4,5 @@ To Do List Application which allows the user to add items to the to do list, str
 
 You can visit and try out the website here:  (https://simeonwright.github.io/ToDoList/)
 
-![Preview of Website] (https://github.com/SimeonWright/ToDoList/blob/main/previewWebsite.png)
+![Preview of Website](https://github.com/SimeonWright/ToDoList/blob/main/previewWebsite.png)
 
